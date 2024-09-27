@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title> A História de Dona Maria Luiza </title>
+    <style>
+    *{
+  margin: 0;}
+     body{
+  background-color: ;
+  color:  ;
+</head>
+
+    
+</head>
+ <body>
+ <nav>
+        <a href="#">
+           Sobre
+          </a>
+
+         <a href="#">
+          Fotos
+          </a>
+
+         <a href="#">
+         Contato
+          </a>
+  </nav>
+
+<header>
+     <h1> Maria Luiza Antunes </h1>
+     <p> Astronauta e engenheira civil renomada forma na Universidade Federal de São Paulo.  </p> 
+</header>
+
+<main>
+    <article id="Sobre">
+         <h2> Biografia  </h2> 
+         <p> Maria Luiza nasceu no dia 12 de Dezembro de 1940, no Estado do Sergipe. Lá ela vivia com os pais em uma fazenda de plantação e colheita de algodão, onde iniciou sua jornada no trabalho aos 9 anos de idade, com carga horária de mais de 13 horas embaixo de sol e chuva diariamente. Aos 13 anos de idade, Luiza embarcou rumo à São Paulo em busca de uma condição de vida mais digna e com acesso a melhores condições de vida.
+Ela sempre gostou muito de assuntos astrológicos e foi destaque ao entrar na primeira escola de sua vida, o que a possibilitou uma entrada diretamente ao ensino superior na universidade. </p>
+
+    <aside> 
+        <h2> Hobbies/Interesses </h2>
+        <ol>
+             <li>Música</li>
+             <li>Estudar Matemática</li>
+             <li>Viajar</li>
+             <li>Comer</li>
+        </ol>
+    </aside>
+</main>
+
+<footer>
+    <p>&copy; 2024 Maria Luiza. Todos os direitos reservados.</p>
+</footer>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
